@@ -1,0 +1,17 @@
+.header{
+    height: 300px;
+    /* background-image: url('Forest.jpg'); */
+    background-image: url(../Images/Love.jpg);
+    background-size: 100%;
+}
+
+h3{ text-align: center;
+    color: rgb(19, 19, 18);
+    text-decoration:wavy;
+}
+p{
+    color: purple;
+}
+a{
+    text-decoration: none;
+}
